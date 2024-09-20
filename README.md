@@ -10,3 +10,10 @@ my WoW Addons and Settings Export
 
 ## Macros
 
+### Priest - Mount and Angelic Feather
+
+Change the mount and spellnames to your used ones
+
+```
+/cast [nocombat,swimming]Dunkelwasserrochen;[nocombat,outdoors,flyable]Leuchtender Sternensucher;[nocombat,outdoors]Erneuerter Protodrache;[nocombat,outdoors,noflyable]Schecke;[nocombat,nostance,@player][combat,@player]Engelsfeder;[@player]Engelsfeder
+```
