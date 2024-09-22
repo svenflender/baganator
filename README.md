@@ -28,7 +28,7 @@ Change the mount and spellnames to your used ones
 
 Displays an icon that shows the remaining duration of the ![reusable oversized bobber](https://wow.zamimg.com/images/wow/icons/large/achievement_profession_fishing_outlandangler.jpg) [reusable oversized bobber](https://www.wowhead.com/de/item=202207/wiederverwendbarer-%C3%BCbergro%C3%9Fer-schwimmer) and casts the fishing rod when clicked.
 
-[!WARNING]
+> [!WARNING]
 > This Weak Aura uses Secure Frames
 
 ```
