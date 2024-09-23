@@ -36,7 +36,7 @@ Displays an icon that shows the remaining duration of the ![reusable oversized b
 ```
 ### Wago.io Links
 
-- [https://wago.io/TamasTheWarWithinHelper](https://wago.io/TamasTheWarWithinHelper)
+- [Tamas The War Within Helper](https://wago.io/TamasTheWarWithinHelper)
 - [Myu's Knowledge Points Tracker](https://wago.io/L7lpDrqUO/10)
 - [Luxthos WeakAuras](https://www.luxthos.com/)
 
