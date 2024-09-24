@@ -1,6 +1,6 @@
 # World of Warcraft
 
-my WoW Addons and Settings Export
+my WoW [Addons](https://github.com/svenflender/wow/blob/main/Addon.md) and Settings Export
 
 ## Addons 
 
