@@ -5,6 +5,11 @@
 1. WeakAuras
 2. Baganator
 
+## Special Needs
+1. Dynamic UI > A simple World of Warcraft Addon to automatically switch built in "Edit Mode" profile based on screen resolution.
+2. SoundManager > This WoW AddOn allows to quickly switch between different sound output devices in one click, and to adjust sound volume.
+Sound volume is saved for each output device.
+
 ## UI
 
 1. Prat 3.0
