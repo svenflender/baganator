@@ -29,7 +29,7 @@ Change the mount and spellnames to your used ones
 
 Change the Icon ID to your favorite one
 
-Icons:
+**Icons:**  
 0 No Icon  
 1	Star  
 2	Circle  
@@ -40,7 +40,7 @@ Icons:
 7	Cross (X)  
 8	Skull  
 
-Usage:
+**Usage:**
 1. Select Target
 2. Klick Macro
 3. Kill Mob
