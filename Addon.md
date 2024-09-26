@@ -28,7 +28,7 @@ Sound volume is saved for each output device.
 
 1. Weekly Knowledge
 2. ALL THE THINGS
-3. 
+3. Profession Shopping List
 
 ## Dungeons and Raid
 
@@ -38,4 +38,3 @@ Sound volume is saved for each output device.
 4. OmniCD - Party Cooldown Tracker
 5. Plater Nameplates
 6. Premade Groups Filter
-7. Profession Shopping List
