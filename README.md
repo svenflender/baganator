@@ -25,6 +25,44 @@ Change the mount and spellnames to your used ones
 /cast [nocombat,swimming]Dunkelwasserrochen;[nocombat,outdoors,flyable]Leuchtender Sternensucher;[nocombat,outdoors]Erneuerter Protodrache;[nocombat,outdoors,noflyable]Schecke;[nocombat,nostance,@player][combat,@player]Engelsfeder;[@player]Engelsfeder
 ```
 
+### Focus Macro with Icon
+
+Change the Icon ID to your favorite one
+
+Icons:
+0 No Icon
+1	Star
+2	Circle
+3	Diamond
+4	Triangle
+5	Moon
+6	Square
+7	Cross (X)
+8	Skull
+
+Usage:
+1. Select Target
+2. Klick Macro
+3. Kill Mob
+
+Delete Focus: Shift + Klick Marco
+
+```
+/focus [exists][]
+/run if GetRaidTargetIndex("focus") then SetRaidTarget("focus",0) end
+/clearfocus [mod:shift, exists]
+/run if not GetRaidTargetIndex("focus") then SetRaidTarget("focus",3) end
+```
+
+### Focus/Mouseover/Target Interrupt
+
+Change the spellname to your used one
+
+```
+#showtooltip Zurechtweisung
+/cast [@focus,exists][@mouseover,exists][@target] Zurechtweisung
+```
+
 ## Weak Auras
 
 ### Fishing - Wiederverwendbarer übergroßer Schwimmer
