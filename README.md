@@ -30,15 +30,15 @@ Change the mount and spellnames to your used ones
 Change the Icon ID to your favorite one
 
 Icons:
-0 No Icon
-1	Star
-2	Circle
-3	Diamond
-4	Triangle
-5	Moon
-6	Square
-7	Cross (X)
-8	Skull
+0 No Icon  
+1	Star  
+2	Circle  
+3	Diamond  
+4	Triangle  
+5	Moon  
+6	Square  
+7	Cross (X)  
+8	Skull  
 
 Usage:
 1. Select Target
